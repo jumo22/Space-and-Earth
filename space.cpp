@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-//Iulia Moroti 1231A
+//jumo22
 using namespace std;
 int binarySearch(int c[], int l, int r, int fuel, int start){
     if (r >= l){
